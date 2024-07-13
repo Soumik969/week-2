@@ -1,0 +1,19 @@
+/* src/styles.css */
+.app {
+    background-color: #f8f9fa;
+    color: #212529;
+}
+
+.app.dark-mode {
+    background-color: #343a40;
+    color: #f8f9fa;
+}
+
+.card {
+    margin-bottom: 1rem;
+}
+
+.dark-mode .card {
+    background-color: #495057;
+    color: #f8f9fa;
+}
